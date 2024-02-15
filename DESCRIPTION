@@ -1,0 +1,13 @@
+Package: rusalign
+Title: Utilities for US-align
+Version: 0.0.0.9000
+Authors@R: 
+    person("Leighton", "Payne", , "leighton.payne@postgrad.otago.ac.nz", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-2305-6827"))
+Description: 'US-align' is a tool for universal structure alignment of monomeric 
+    and complex proteins and nucleic acids. 'rusalign' exposes functions for
+    exploring the results produced by 'US-align'.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
